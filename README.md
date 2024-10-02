@@ -27,7 +27,7 @@ If you enter, for example, "3", the output is:
 
 >cum
 
-(This is, in fact, an accurate list of the three most common Latin prepositions. Respectively, they mean approximately "in," "to/toward", and "with/when/since/although/nevertheless." Aren't prepositions great!)
+<small>Note: This is, in fact, an accurate list of the three most common Latin prepositions. Respectively, they mean approximately "in," "to/toward", and "with/when/since/although/nevertheless." Aren't prepositions great!</small>
 
 ### What is happening
 
